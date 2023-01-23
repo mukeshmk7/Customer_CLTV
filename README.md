@@ -1,4 +1,5 @@
-Problem Statement
+**Problem Statement**
+
 VahanBima is one of the leading insurance companies in India. It provides motor vehicle insurances 
 at best prices with 24/7 claim settlement. It offers different types of policies for both personal and 
 commercial vehicles. It has established its brand across different regions in India.
@@ -12,6 +13,6 @@ interaction of the customer with the platform. So, as a part of this challenge, 
 build a high performance and interpretable machine learning model to predict the CLTV based on the 
 user and policy data.
 
-CLTV Prediction.pptx --> Presentation of the project
+**CLTV Prediction.pptx --> Presentation of the project**
 
-customer_cltv.ipynb ---> Notebook of the project
+**customer_cltv.ipynb ---> Notebook of the project**
