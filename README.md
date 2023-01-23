@@ -13,4 +13,5 @@ build a high performance and interpretable machine learning model to predict the
 user and policy data.
 
 CLTV Prediction.pptx --> Presentation of the project
+
 customer_cltv.ipynb ---> Notebook of the project
